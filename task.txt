@@ -1,0 +1,20 @@
+Bot funksiyasi
+
+#onlayn_tarjimon
+#lotin_krill #krill_lotin
+#ob_havo
+#valyuta_kursi
+#avto_to‘g‘rilash
+
+
+start - Botni ishga tushirish
+translate🌍 - Tarjimonni ochish
+ob_havo🌦 - Ob-havo malumotlarini olish
+valyuta_kursi💸 - Bugungi kundagi valyuta kurslarini olish
+
+
+start - Botni ishga tushirish
+translate - Tarjimonni ochish
+ob_havo - Ob-havo malumotlarini olish
+valyuta_kursi - Bugungi kundagi valyuta kurslarini olish
+

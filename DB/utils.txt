@@ -1,0 +1,19 @@
+create  table users (
+    id serial primary key,
+    fullname varchar(25),
+    username varchar(25),
+    userId integer
+);
+
+create table news(
+    id serial primary key,
+    image varchar(100),
+    image_text varchar(100)
+);
+
+create table admin(
+    id serial primary key,
+    name varchar(20),
+    password varchar(25),
+    adminId integer
+);
